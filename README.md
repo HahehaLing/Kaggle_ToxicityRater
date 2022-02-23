@@ -9,7 +9,7 @@ Conventional toxicity comment rater Kaggle competitions focus on correctly class
 The data provided by Jigsaw is rated by a number of judges on a pair of 2 comments. The judges rate which of the two comments are more toxic. This pair of comment rating ensures a higher level of comformity in the judges' rating. Otherwise, every judge may have their own bar of toxicity and the labeling scale would not be uniform. For example, one judge may rate the same comment as a 0.3, while another judge may view the same comment as a 0.5. With a pair of 2 comments, it would be easier to differentiate which comment is more toxic when 1 is obviously more vulgar than the other. 
 
 # Getting Started
-Notebook bow_biranktrain.ipynb contains the model trained on the pair of comments provided in the Jigsaw dataset. The accuracy on the reserved test data is about 79%. 
+Notebook bow_biranktrain.ipynb contains the model trained on the pair of comments provided in the Jigsaw dataset. The accuracy on the reserved test data is 79%. 
 
 # Prerequisites
 Pip dependencies in the requirements.txt file.
