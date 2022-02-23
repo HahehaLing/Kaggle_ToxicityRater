@@ -24,5 +24,5 @@ Eric (Yue) Ling
 
 # Acknowledgments
 Jason Trinh for code review and tips about speeding up the search. 
-Natalie Ahn for giving tips about training the models and different methods of data transformation. 
+Natalie Ahn for giving tips about training the models and different methods of data transformation, data cleaning tips using regex. 
 
