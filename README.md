@@ -23,6 +23,6 @@ Try transfer learning on transformer-trained BERT sentiment models.
 Eric (Yue) Ling
 
 # Acknowledgments
-Josh Baltar, Henry Apfel, Jason Trinh for code review, brainstorming session, and tips about speeding up the search. 
+Josh Baltar, Henry Apfel, and Jason Trinh for code review, brainstorming session, and tips about speeding up the search. 
 Natalie Ahn for giving tips about training the models and different methods of data transformation, data cleaning tips using regex. 
 
