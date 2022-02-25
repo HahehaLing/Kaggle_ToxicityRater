@@ -20,7 +20,7 @@ Pip dependencies in the requirements.txt file.
 Try transfer learning on pre-trained, transformer-based BERT sentiment models. The higher performance models in articles and latest NLP research are BERT models, because they can be trained on much bigger datasets (with parallelization) on a shorter time than LSTM could. LSTM, with its recurrent architecture, is also limited in the number of preceeding word it can remember, whereas the attention-emphasis and feedforward architecture of transformers have locational and embeddings allowing for context representations of the text without losing overall information as a result of "too distanted" preceeding words. Training on my own models (LSTM, XGB, SVM, Random Forest...etc.) are also limited by the small amount of data so fine-tuning my data on pre-trained sentiment models may drastically increase the overall accuracy significantly. 
 
 ## Hyperparameter tuning
-   * random selection 
+   * random selection on a few parameter canadidates
 
 # Authors
 Eric (Yue) Ling
